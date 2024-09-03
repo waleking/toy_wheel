@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+src/toy_wheel/__init__.py
+src/toy_wheel/main.py
+src/toy_wheel.egg-info/PKG-INFO
+src/toy_wheel.egg-info/SOURCES.txt
+src/toy_wheel.egg-info/dependency_links.txt
+src/toy_wheel.egg-info/top_level.txt
